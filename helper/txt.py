@@ -1,7 +1,7 @@
 """
 Apache License 2.0
 
-Copyright (c) 2022 @LazyDeveloper
+Copyright (c) 2022 @Love_vk_editor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -36,8 +36,8 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 The Name is : {}
-├👑 ADMIN-TG : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
-├👑 Instagram : <a href=https://www.instagram.com/LazyDeveloperrr>C-Insta</a> 
+├👑 ADMIN-TG : <a href=https://t.me/In_Tokyo_Revengers_Tamil>LazyDeveloper</a> 
+├👑 TELEGRAM : <a href=https://t.me/In_Tokyo_Revengers_Tamil>C-Insta</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
