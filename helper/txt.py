@@ -35,7 +35,7 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 The Name is : {}
+├🤖 The Name is : {Varun}
 ├👑 ADMIN-TG : <a href=https://t.me/In_Tokyo_Revengers_Tamil>LazyDeveloper</a> 
 ├👑 TELEGRAM : <a href=https://t.me/In_Tokyo_Revengers_Tamil>C-Insta</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
